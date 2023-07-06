@@ -6,6 +6,10 @@ How it works:
 
 
 
-https://github.com/IliescuVali/01-thymeleaf-demo-employees-starter-list/assets/122371102/f10f78df-bf3c-4e02-9291-3c4b591a9e50
+https://github.com/IliescuVali/01-thymeleaf-demo-employees-starter-list/assets/122371102/6d54c43d-851d-4e46-830a-842d0f558861
+
+
+
+
 
 
